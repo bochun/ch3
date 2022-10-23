@@ -29,7 +29,7 @@ curl -XPUT -H "Content-Type: application/json" \
   "sourceUUID": "",
   "planParams": {
     "maxPartitionsPerPIndex": 1024,
-    "indexPartitions": 1
+    "indexPartitions": 6
   },
   "params": {
     "doc_config": {
@@ -149,7 +149,7 @@ curl -XPUT -H "Content-Type: application/json" \
   "sourceUUID": "",
   "planParams": {
     "maxPartitionsPerPIndex": 1024,
-    "indexPartitions": 1
+    "indexPartitions": 6
   },
   "params": {
     "doc_config": {
@@ -230,7 +230,7 @@ curl -XPUT -H "Content-Type: application/json" \
   "sourceUUID": "",
   "planParams": {
     "maxPartitionsPerPIndex": 1024,
-    "indexPartitions": 1
+    "indexPartitions": 6
   },
   "params": {
     "doc_config": {
@@ -310,7 +310,7 @@ curl -XPUT -H "Content-Type: application/json" \
   "sourceUUID": "",
   "planParams": {
     "maxPartitionsPerPIndex": 1024,
-    "indexPartitions": 1
+    "indexPartitions": 6
   },
   "params": {
     "doc_config": {
@@ -450,7 +450,7 @@ curl -XPUT -H "Content-Type: application/json" \
   "sourceUUID": "",
   "planParams": {
     "maxPartitionsPerPIndex": 1024,
-    "indexPartitions": 1
+    "indexPartitions": 6
   },
   "params": {
     "doc_config": {
@@ -555,7 +555,7 @@ curl -XPUT -H "Content-Type: application/json" \
   "sourceUUID": "",
   "planParams": {
     "maxPartitionsPerPIndex": 1024,
-    "indexPartitions": 1
+    "indexPartitions": 6
   },
   "params": {
     "doc_config": {
